@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RaviTejaMeruva
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning Generative AI
+- 💞️ I’m looking to collaborate on Generative AI Based Healthcare Startup
+- 📫 How to reach me ravitejameruva.ds@gmail.com
